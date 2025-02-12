@@ -1,4 +1,4 @@
-<h2> A\* Path Planning with Differential Drive Robot Simulation</h2>
+<h2> A* Path Planning with Differential Drive Robot Simulation</h2>
 
 This MATLAB project implements the A\* pathfinding algorithm to navigate a 30x30 grid map with obstacles. Additionally, a differential drive robot follows the computed path.
 
